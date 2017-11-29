@@ -1,0 +1,4 @@
+I am not sure what to write here.
+This is the second line of my test script.
+And a third and last line that will print.
+And this line will only print when running the function print f.read().
