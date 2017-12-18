@@ -1,0 +1,1 @@
+print "ex44 -4 - Inheritance versus Composition\n"
