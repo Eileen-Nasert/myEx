@@ -367,8 +367,8 @@ fourth_dragon_life.add_paths({
 })
 
 second_task.add_paths({
-    '*': lake_death_1,
-    '*': lake_death_2,
+    '1': lake_death_1,
+    '3': lake_death_2,
     '2': lake_life
 })
 
